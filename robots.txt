@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kruptos.github.io/sitemap.xml 
